@@ -12,5 +12,5 @@ An AI-driven interactive quiz simulator tailored for Cisco Certified Network Ass
 
 1. Clone the repository and navigate into the project directory:
    ```bash
-   git clone <repo_url>
+   git clone <https://github.com/makmazOKT25/ccnatrainer.git>
    cd ccna-exam-trainer
